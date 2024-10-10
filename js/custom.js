@@ -22,7 +22,7 @@
             { src: 'images/slide-image02.jpg' }
         ],
         timer: false,
-        transition: [ 'zoomIn', ]
+        transition: [ 'zoomOut', ]
     });
 
 })(jQuery);
