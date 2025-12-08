@@ -3,7 +3,7 @@
 $(document).ready(function() {
 						   
 	$(".countdown").countdown({
-				date: "25 jan 2026 18:30:00",
+				date: "25 feb 2026 18:30:00",
 				format: "on"
 			},
 			
@@ -13,3 +13,4 @@ $(document).ready(function() {
 
 
 });	
+
